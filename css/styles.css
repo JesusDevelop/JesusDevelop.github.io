@@ -78,6 +78,12 @@ body {
   color: aqua;
 }
 
+.info-content p{
+
+  margin: 1em 0;
+
+}
+
 .download-cv{
   padding: 10px 20px;
   background-color: aqua;
