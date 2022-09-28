@@ -185,7 +185,9 @@ body {
 .card-title{
   padding: 2em;
 }
-
+.card-title h2{
+  text-align: center;
+}
 .card-project-links{
   display: flex;
   justify-content: space-evenly;
