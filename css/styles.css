@@ -270,12 +270,35 @@ body {
 }
 
 .footer{
+  display: flex;
+  flex-direction: column;
   width: 100vw;
   height: 30vh;
-  background-color: #2b3058;
+  background-color:aqua;
+  justify-content: center;
+  align-items: center;
+  color: #191c32;
 }
-.footer-content{
-  display:inline-flex
 
+.footer-content h2{
+
+  font-size: 3em;
 
 }
+
+.footer-content h5,
+.social-network i{
+  font-size: 1.5em;
+}
+
+.social-network{
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+  margin-top: 1em;
+}
+.social-network a{
+  text-decoration: none;
+  color: #191c32;
+}
+
