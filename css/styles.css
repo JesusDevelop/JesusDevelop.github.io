@@ -225,9 +225,10 @@ body {
 }
 
 .container-contact img{
-  width: 750px;
-  height: 700px;
+  width: 700px;
+  height: 650px;
   bottom: 0;
+  opacity: 0.1;
 }
 
 .form{
