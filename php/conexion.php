@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set("America/Lima");
 $servername = "localhost";
-$database = "bd_devint";
+$database = "databaset";
 $username = "root";
 $password = "";
 $mysqli = new mysqli($servername, $username, $password, $database);
