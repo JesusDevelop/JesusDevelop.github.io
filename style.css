@@ -218,13 +218,13 @@ h1 {
   font-weight: bold;
 }
 
-/* Testimonios */
+/* certificados */
 
-.testimonios {
+.certificados {
   padding: 40px 40px 80px 40px;
 }
 
-.testimonios .carousel {
+.certificados .carousel {
   max-width: 800px;
 }
 
@@ -241,33 +241,33 @@ h1 {
   justify-content: center;
 }
 
-.testimonio-imagen {
-  height: 150px;
-  width: 150px;
+.certificado-imagen {
+  height: 250px;
+  width: 250px;
   margin: 10px 10px 20px 10px;
 }
 
-.testimonio-texto {
+.certificado-texto {
   max-width: 70%;
   font-size: 20px;
   text-align: center;
   font-family: 'Share Tech Mono', monospace;
 }
 
-.testimonio-info {
+.certificado-info {
   font-weight: bold;
   text-align: center;
 }
 
-.testimonio-info p {
+.certificado-info p {
   margin-bottom: 0;
 }
 
-.testimonio-footer .cliente {
+.certificado-footer .cliente {
   font-size: 1.2rem;
 }
 
-.testimonio-info .cargo {
+.certificado-info .cargo {
   font-size: 0.9rem;
   color: #656060;
 }
@@ -396,12 +396,12 @@ footer {
 }
 
 @media screen and (max-width: 800px) {
-  .testimonio-imagen {
+  .certificado-imagen {
     height: 120px;
     width: 120px;
   }
 
-  .testimonio-texto {
+  .certificado-texto {
     font-size: 18px;
   }
 }
